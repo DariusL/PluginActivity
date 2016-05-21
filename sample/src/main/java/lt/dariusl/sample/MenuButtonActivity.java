@@ -11,7 +11,6 @@ import android.widget.Toast;
 
 import butterknife.Bind;
 import butterknife.ButterKnife;
-import lt.dariusl.pluginactivity.ActivityPluginAdapter;
 import lt.dariusl.pluginactivity.PluginActivity;
 
 public class MenuButtonActivity extends PluginActivity {
